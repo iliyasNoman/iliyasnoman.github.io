@@ -1,10 +1,16 @@
 ---
+layout: home
 title: "Home"
-layout: default
 ---
 
-Hi — I'm **Iliyas Noman**.  
-I’m a young researcher working on [your research area].  
-- 🔭 Research: short line about your topic  
-- ✉️ Email: your.email@institution.edu (or leave blank)
-- 📄 [CV](cv.pdf) (optional)
+<div style="display:flex; align-items:center; gap:20px;">
+  <img src="/profile.jpg" alt="Iliyas Noman" style="width:150px; border-radius:50%;"/>
+  <div>
+    <p>
+      I am a college student and young researcher with a strong background in competitive math and foundational AI concepts. My recent work focuses on understanding machine learning systems, including topics like contrastive learning, representation learning, and white-box auditing of unlearning in models.
+    </p>
+    <p>
+      Beyond research, I enjoy diving into mathematical puzzles, exploring deep learning papers, experimenting with PyTorch and tensors, working on independent coding projects, and staying active through climbing and soccer.
+    </p>
+  </div>
+</div>

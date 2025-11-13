@@ -1,8 +1,3 @@
-# _config.yml
 title: "Iliyas Noman"
-email: ""
-description: "Researcher — short tagline here"
-baseurl: ""   # leave empty for user site
-url: "https://iliyasnoman.github.io"
-
-theme: jekyll-theme-minimal
+description: "Personal website"
+theme: minima

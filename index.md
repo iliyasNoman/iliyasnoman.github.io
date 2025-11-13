@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="display:flex; align-items:center; gap:20px;">
-  <img src="/profile.jpg" alt="Iliyas Noman" style="width:150px; border-radius:50%;"/>
+  <img src="/profile.JPG" alt="Iliyas Noman" style="width:150px; border-radius:50%;"/>
   <div>
     <p>
       I am a college student and young researcher with a strong background in competitive math and foundational AI concepts. My recent work focuses on understanding machine learning systems, including topics like contrastive learning, representation learning, and white-box auditing of unlearning in models.
